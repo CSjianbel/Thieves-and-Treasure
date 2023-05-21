@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SquareScript : MonoBehaviour
+public class DiceFaces : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -16,7 +16,11 @@ public class SquareScript : MonoBehaviour
         
     }
 
-    public Vector3 getPosition() {
-        return transform.position;
+    public void hide() {
+        gameObject.SetActive(false);
+    }
+
+    public void show() {
+        gameObject.SetActive(true);
     }
 }
