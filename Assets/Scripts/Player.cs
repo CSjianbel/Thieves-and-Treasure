@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    public FlashImage fl;
     int square;
     int prevSquare;
     bool moving;
@@ -81,8 +82,13 @@ public class Player : MonoBehaviour
 
     public void penalize(int newSquare) {
         // JEROME HERE
+        GameObject flash = GameObject.Find("FlashController");
+        FlashImage fl = (FlashImage)flash.GetComponent(typeof(FlashImage));
+        fl.show();
+        fl.StartFlash(.25f, .5f, Color.red);
         setSquare(newSquare);
         setPosition(squares[newSquare].getPosition());
+        fl.hide();
     }
     public void setSquare(int pos) {
         square = pos;
