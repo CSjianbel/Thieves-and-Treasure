@@ -11,6 +11,7 @@ public class DiceAnimation : MonoBehaviour
     {
         dice = GetComponentInParent<Game>();
         DiceAnimator = GetComponent<Animator>();
+        DiceAnimator.SetTrigger("rolling");
     }
 
     // Update is called once per frame
@@ -27,7 +28,7 @@ public class DiceAnimation : MonoBehaviour
     }
 
     public void roll() {
-        DiceAnimator.SetTrigger("roll");
+        DiceAnimator.SetTrigger("rolling");
     }
     public void FinishedAnimation() {
         dice.FinishedAnimation();

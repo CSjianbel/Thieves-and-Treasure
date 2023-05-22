@@ -4,23 +4,85 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public int square;
+    int square;
+    int prevSquare;
+    bool moving;
+    const float speed = 50.0f;
+    const int rows = 10;
+    const int cols = 10;
+
+    public Animator animator;
+    SquareScript [] squares;
 
     // Start is called before the first frame update
     void Start()
     {
+        animator = GetComponent<Animator>();
         square = 0;
+        moving = false;
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (Vector3.Distance(transform.position, squares[Mathf.Min(prevSquare + 1, square)].getPosition()) < 0.001f) {
+            animator.SetBool("running", false);
+            if (square == prevSquare) {
+                // HAS BUG NULL EXCEPTION ERROR
+                // if (squares[square].isTanod()) {
+                //     squares[square].tanodAttack();
+                // } else if (squares[square].isDog()) {
+                //     squares[square].dogAttack();
+                // }
+                penalty();
+                moving = false;
+            } else {
+                prevSquare++;
+            }
+        }
+        if (moving) {
+            animator.SetBool("running", true);
+            transform.position = Vector3.MoveTowards(transform.position, squares[Mathf.Min(prevSquare + 1, square)].getPosition(), speed * Time.deltaTime);
+        }
     }
 
-    public void move(int newSquare, Vector3 newPos) {
+    void penalty() {
+        int tmp = square;
+        if (squares[square].isTanod()) {
+            Debug.Log("Player " + this.name + " was Caught By a Tanod!");
+            int col = square % rows;
+            int rowBelow = ((square / cols) - 1) * cols;
+            square = rowBelow + ((cols - 1) - col);
+            // squares[square].tanodAttack();
+        } else if (squares[square].isDog()) {
+            Debug.Log("Player " + this.name + " was attacked By a Dog!");
+            square -= 4;
+            // squares[square].dogAttack();
+        }
+        setPosition(squares[square].getPosition());
+
+        // HAS BUG NULL EXCEPTION ERROR
+        // if (squares[tmp].isTanod()) {
+        //     squares[square].stopTanodAttack();
+        // } else if (squares[tmp].isDog()) {
+        //     squares[square].stopDogAttack();
+        // }
+    }
+
+    public void setup(SquareScript[] board) {
+        squares = board;
+    }
+
+    public void move(int newSquare) {
+        moving = true;
+        prevSquare = square;
         setSquare(newSquare);
-        setPosition(newPos);
+    }
+
+    public void penalize(int newSquare) {
+        // JEROME HERE
+        setSquare(newSquare);
+        setPosition(squares[newSquare].getPosition());
     }
     public void setSquare(int pos) {
         square = pos;
@@ -35,8 +97,6 @@ public class Player : MonoBehaviour
     }
 
     public void setPosition(Vector3 pos) {
-        // Debug.Log(transform.position);
         transform.position = pos;
-        // Debug.Log(pos);
     }
 }
