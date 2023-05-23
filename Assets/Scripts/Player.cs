@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    public EndSceneScript endSceneScript;
     public FlashImage fl;
     int square;
     int prevSquare;
@@ -48,6 +49,7 @@ public class Player : MonoBehaviour
             animator.SetBool("running", true);
             transform.position = Vector3.MoveTowards(transform.position, squares[Mathf.Min(prevSquare + 1, square)].getPosition(), speed * Time.deltaTime);
         }
+        isAt100();
     }
 
     void penalty() {
@@ -115,5 +117,14 @@ public class Player : MonoBehaviour
     public void setPosition(Vector3 pos) {
         transform.position = pos;
         running.Play();
+    }
+
+
+    public void isAt100() {
+        endSceneScript = GetComponent<EndSceneScript>();
+        if (square == 99)
+        {
+            endSceneScript.Finished();
+        }
     }
 }
