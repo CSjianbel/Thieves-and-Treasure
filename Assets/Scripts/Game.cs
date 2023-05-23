@@ -57,14 +57,16 @@ public class Game : MonoBehaviour
         for (int i = 1; i < rows; i++) {
             int row = i * cols;
 
-            int colT, colD;
+            int colT, colD, colR;
             do {
                 colT = Random.Range(0, (i == 9) ? 5 : 10);
                 colD = Random.Range(0, (i == 9) ? 5 : 10);
-            } while (colT == colD);
+                colR = Random.Range(0, (i == 9) ? 5 : 10);
+            } while (colT == colD || colT == colR || colD == colR);
 
             squares[row + colT].setTanod();
             squares[row + colD].setDog();
+            squares[row + colR].setRope();
         }
     }
 

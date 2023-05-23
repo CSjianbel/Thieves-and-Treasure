@@ -59,6 +59,11 @@ public class Player : MonoBehaviour
             Debug.Log("Player " + this.name + " was attacked By a Dog!");
             square -= 4;
             // squares[square].dogAttack();
+        } else if (squares[square].isRope()) {
+            Debug.Log("Player " + this.name + " has found a Rope!");
+            int col = square % rows;
+            int rowAbove = ((square / cols) + 1) * cols;
+            square = rowAbove + ((cols-1) - col);
         }
         setPosition(squares[square].getPosition());
 

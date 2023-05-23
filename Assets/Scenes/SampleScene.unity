@@ -222,6 +222,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &96057730
 GameObject:
   m_ObjectHideFlags: 0
@@ -321,6 +322,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &107805527
 GameObject:
   m_ObjectHideFlags: 0
@@ -420,6 +422,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &122975138
 GameObject:
   m_ObjectHideFlags: 0
@@ -519,6 +522,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &127892187
 GameObject:
   m_ObjectHideFlags: 0
@@ -753,6 +757,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &133051602
 GameObject:
   m_ObjectHideFlags: 0
@@ -852,6 +857,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &152605624
 GameObject:
   m_ObjectHideFlags: 0
@@ -951,6 +957,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &161642504
 GameObject:
   m_ObjectHideFlags: 0
@@ -1050,6 +1057,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &167503422
 GameObject:
   m_ObjectHideFlags: 0
@@ -1149,6 +1157,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &178317918
 GameObject:
   m_ObjectHideFlags: 0
@@ -1248,6 +1257,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &180437756
 GameObject:
   m_ObjectHideFlags: 0
@@ -1482,6 +1492,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &187592331
 GameObject:
   m_ObjectHideFlags: 0
@@ -1581,6 +1592,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &202570919
 GameObject:
   m_ObjectHideFlags: 0
@@ -1680,6 +1692,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &211910725
 GameObject:
   m_ObjectHideFlags: 0
@@ -1779,6 +1792,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &214893188
 GameObject:
   m_ObjectHideFlags: 0
@@ -2223,6 +2237,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &251236953
 GameObject:
   m_ObjectHideFlags: 0
@@ -2322,6 +2337,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &256039774
 GameObject:
   m_ObjectHideFlags: 0
@@ -2421,6 +2437,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &264838420
 GameObject:
   m_ObjectHideFlags: 0
@@ -2520,6 +2537,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &270784889
 GameObject:
   m_ObjectHideFlags: 0
@@ -2619,6 +2637,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &283545718
 GameObject:
   m_ObjectHideFlags: 0
@@ -2718,6 +2737,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &287092071
 GameObject:
   m_ObjectHideFlags: 0
@@ -2817,6 +2837,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &291430096
 GameObject:
   m_ObjectHideFlags: 0
@@ -2916,6 +2937,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &292250597
 GameObject:
   m_ObjectHideFlags: 0
@@ -3271,6 +3293,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &325366468
 GameObject:
   m_ObjectHideFlags: 0
@@ -3370,6 +3393,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &326707795
 GameObject:
   m_ObjectHideFlags: 0
@@ -3574,6 +3598,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &384567733
 GameObject:
   m_ObjectHideFlags: 0
@@ -3673,6 +3698,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &391351136
 GameObject:
   m_ObjectHideFlags: 0
@@ -3772,6 +3798,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &393960141
 GameObject:
   m_ObjectHideFlags: 0
@@ -3871,6 +3898,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &395383863
 GameObject:
   m_ObjectHideFlags: 0
@@ -3970,6 +3998,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &439452889
 GameObject:
   m_ObjectHideFlags: 0
@@ -4069,6 +4098,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &459124336
 GameObject:
   m_ObjectHideFlags: 0
@@ -4168,6 +4198,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &463774787
 GameObject:
   m_ObjectHideFlags: 0
@@ -4267,6 +4298,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &481069554
 GameObject:
   m_ObjectHideFlags: 0
@@ -4366,6 +4398,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -4947,6 +4980,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &587815747
 GameObject:
   m_ObjectHideFlags: 0
@@ -5046,6 +5080,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &620229586
 GameObject:
   m_ObjectHideFlags: 0
@@ -5145,6 +5180,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &636404454
 GameObject:
   m_ObjectHideFlags: 0
@@ -5379,6 +5415,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &706122855
 GameObject:
   m_ObjectHideFlags: 0
@@ -5613,6 +5650,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &727938130
 GameObject:
   m_ObjectHideFlags: 0
@@ -5809,6 +5847,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &753314238
 GameObject:
   m_ObjectHideFlags: 0
@@ -5908,6 +5947,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &782112392
 GameObject:
   m_ObjectHideFlags: 0
@@ -6007,6 +6047,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &790629420
 GameObject:
   m_ObjectHideFlags: 0
@@ -6106,6 +6147,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &801362354
 GameObject:
   m_ObjectHideFlags: 0
@@ -6205,6 +6247,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &806096595
 GameObject:
   m_ObjectHideFlags: 0
@@ -6304,6 +6347,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &831090202
 GameObject:
   m_ObjectHideFlags: 0
@@ -6403,6 +6447,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &848178951
 GameObject:
   m_ObjectHideFlags: 0
@@ -6502,6 +6547,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &856377366
 GameObject:
   m_ObjectHideFlags: 0
@@ -6721,6 +6767,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &887265971
 GameObject:
   m_ObjectHideFlags: 0
@@ -6820,6 +6867,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &898231373
 GameObject:
   m_ObjectHideFlags: 0
@@ -7016,6 +7064,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &975029117
 GameObject:
   m_ObjectHideFlags: 0
@@ -7115,6 +7164,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1005661504
 GameObject:
   m_ObjectHideFlags: 0
@@ -7214,6 +7264,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1007883354
 GameObject:
   m_ObjectHideFlags: 0
@@ -7313,6 +7364,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1020586396
 GameObject:
   m_ObjectHideFlags: 0
@@ -7566,6 +7618,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1042258299
 GameObject:
   m_ObjectHideFlags: 0
@@ -7665,6 +7718,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1044036746
 GameObject:
   m_ObjectHideFlags: 0
@@ -7764,6 +7818,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1059224382
 GameObject:
   m_ObjectHideFlags: 0
@@ -8303,6 +8358,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1106151029
 GameObject:
   m_ObjectHideFlags: 0
@@ -8402,6 +8458,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1106408154
 GameObject:
   m_ObjectHideFlags: 0
@@ -8501,6 +8558,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1109212726
 GameObject:
   m_ObjectHideFlags: 0
@@ -8600,6 +8658,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1165361343
 GameObject:
   m_ObjectHideFlags: 0
@@ -8699,6 +8758,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1168069720
 GameObject:
   m_ObjectHideFlags: 0
@@ -8798,6 +8858,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1168121458
 GameObject:
   m_ObjectHideFlags: 0
@@ -8897,6 +8958,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1168757189
 GameObject:
   m_ObjectHideFlags: 0
@@ -8996,6 +9058,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1170883814
 GameObject:
   m_ObjectHideFlags: 0
@@ -9281,6 +9344,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1224733800
 GameObject:
   m_ObjectHideFlags: 0
@@ -9515,6 +9579,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1228358815
 GameObject:
   m_ObjectHideFlags: 0
@@ -9614,6 +9679,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1246629479
 GameObject:
   m_ObjectHideFlags: 0
@@ -9713,6 +9779,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1259902421
 GameObject:
   m_ObjectHideFlags: 0
@@ -9812,6 +9879,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1277569350
 GameObject:
   m_ObjectHideFlags: 0
@@ -9911,6 +9979,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1286009107
 GameObject:
   m_ObjectHideFlags: 0
@@ -10055,6 +10124,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1414883781
 GameObject:
   m_ObjectHideFlags: 0
@@ -10154,6 +10224,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1421312273
 GameObject:
   m_ObjectHideFlags: 0
@@ -10388,6 +10459,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1498440927
 GameObject:
   m_ObjectHideFlags: 0
@@ -10487,6 +10559,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1513208886
 GameObject:
   m_ObjectHideFlags: 0
@@ -10586,6 +10659,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1514268775
 GameObject:
   m_ObjectHideFlags: 0
@@ -10822,6 +10896,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1526440685
 GameObject:
   m_ObjectHideFlags: 0
@@ -10921,6 +10996,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1528753557
 GameObject:
   m_ObjectHideFlags: 0
@@ -11020,6 +11096,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1559612422
 GameObject:
   m_ObjectHideFlags: 0
@@ -11508,6 +11585,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1635842875
 GameObject:
   m_ObjectHideFlags: 0
@@ -11741,6 +11819,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1655787326
 GameObject:
   m_ObjectHideFlags: 0
@@ -11840,6 +11919,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1722330236
 GameObject:
   m_ObjectHideFlags: 0
@@ -11939,6 +12019,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1833272276
 GameObject:
   m_ObjectHideFlags: 0
@@ -12038,6 +12119,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1849682685
 GameObject:
   m_ObjectHideFlags: 0
@@ -12137,6 +12219,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1849792969
 GameObject:
   m_ObjectHideFlags: 0
@@ -12236,6 +12319,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1850632149
 GameObject:
   m_ObjectHideFlags: 0
@@ -12335,6 +12419,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1868448105
 GameObject:
   m_ObjectHideFlags: 0
@@ -12434,6 +12519,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1874035483
 GameObject:
   m_ObjectHideFlags: 0
@@ -12801,6 +12887,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1929648250
 GameObject:
   m_ObjectHideFlags: 0
@@ -12900,6 +12987,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1942672963
 GameObject:
   m_ObjectHideFlags: 0
@@ -12999,6 +13087,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1959243349
 GameObject:
   m_ObjectHideFlags: 0
@@ -13098,6 +13187,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1968491285
 GameObject:
   m_ObjectHideFlags: 0
@@ -13242,6 +13332,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &1975216617
 GameObject:
   m_ObjectHideFlags: 0
@@ -13438,6 +13529,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &2016732477
 GameObject:
   m_ObjectHideFlags: 0
@@ -13537,6 +13629,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &2024198692
 GameObject:
   m_ObjectHideFlags: 0
@@ -13636,6 +13729,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &2034963128
 GameObject:
   m_ObjectHideFlags: 0
@@ -13887,6 +13981,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &2065185774
 GameObject:
   m_ObjectHideFlags: 0
@@ -13986,6 +14081,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &2066651306
 GameObject:
   m_ObjectHideFlags: 0
@@ -14220,6 +14316,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &2082346876
 GameObject:
   m_ObjectHideFlags: 0
@@ -14319,6 +14416,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &2101646282
 GameObject:
   m_ObjectHideFlags: 0
@@ -14418,6 +14516,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
 --- !u!1 &2101677801
 GameObject:
   m_ObjectHideFlags: 0
@@ -14517,3 +14616,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Tanod: {fileID: 7033942660162397589, guid: c589585bbbd1d0249b55acd89c8c63d2, type: 3}
   Dog: {fileID: 259553842767814594, guid: efe53c0304aaeb74cafada34369314c9, type: 3}
+  Rope: {fileID: 783655845365108883, guid: 8ff919c004f87b8428f195a600cabf19, type: 3}
