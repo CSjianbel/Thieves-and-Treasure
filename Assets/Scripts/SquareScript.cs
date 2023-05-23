@@ -10,8 +10,10 @@ public class SquareScript : MonoBehaviour
 
     public GameObject Tanod;
     public GameObject Dog;
+    public GameObject Rope;
     GameObject tanod;
     GameObject dog;
+    GameObject rope;
 
     Tanod tanodScript;
     Dog dogScript;
@@ -33,6 +35,17 @@ public class SquareScript : MonoBehaviour
 
     public Vector3 getPosition() {
         return transform.position;
+    }
+    public void setRope()
+    {
+        rope = Instantiate(Rope, transform.position, transform.rotation);
+        //tanodScript = tanod.GetComponent<Tanod>();
+        hasRope = true;
+    }
+
+    public bool isRope()
+    {
+        return hasRope;
     }
 
     public void setTanod() {

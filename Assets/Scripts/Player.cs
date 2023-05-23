@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    public FlashImage fl;
     int square;
     int prevSquare;
     bool moving;
@@ -13,6 +14,9 @@ public class Player : MonoBehaviour
 
     public Animator animator;
     SquareScript [] squares;
+    [SerializeField] private AudioSource dog;
+    [SerializeField] private AudioSource tanod;
+    [SerializeField] private AudioSource running;
 
     // Start is called before the first frame update
     void Start()
@@ -53,11 +57,18 @@ public class Player : MonoBehaviour
             int col = square % rows;
             int rowBelow = ((square / cols) - 1) * cols;
             square = rowBelow + ((cols - 1) - col);
+            tanod.Play();
             // squares[square].tanodAttack();
         } else if (squares[square].isDog()) {
             Debug.Log("Player " + this.name + " was attacked By a Dog!");
             square -= 4;
+            dog.Play();
             // squares[square].dogAttack();
+        } else if (squares[square].isRope()) {
+            Debug.Log("Player " + this.name + " has found a Rope!");
+            int col = square % rows;
+            int rowAbove = ((square / cols) + 1) * cols;
+            square = rowAbove + ((cols-1) - col);
         }
         setPosition(squares[square].getPosition());
 
@@ -81,8 +92,13 @@ public class Player : MonoBehaviour
 
     public void penalize(int newSquare) {
         // JEROME HERE
+        GameObject flash = GameObject.Find("FlashController");
+        FlashImage fl = (FlashImage)flash.GetComponent(typeof(FlashImage));
+        fl.show();
+        fl.StartFlash(.25f, .5f, Color.red);
         setSquare(newSquare);
         setPosition(squares[newSquare].getPosition());
+        fl.hide();
     }
     public void setSquare(int pos) {
         square = pos;
@@ -98,5 +114,6 @@ public class Player : MonoBehaviour
 
     public void setPosition(Vector3 pos) {
         transform.position = pos;
+        running.Play();
     }
 }
