@@ -14,6 +14,9 @@ public class Player : MonoBehaviour
 
     public Animator animator;
     SquareScript [] squares;
+    [SerializeField] private AudioSource dog;
+    [SerializeField] private AudioSource tanod;
+    [SerializeField] private AudioSource running;
 
     // Start is called before the first frame update
     void Start()
@@ -54,10 +57,12 @@ public class Player : MonoBehaviour
             int col = square % rows;
             int rowBelow = ((square / cols) - 1) * cols;
             square = rowBelow + ((cols - 1) - col);
+            tanod.Play();
             // squares[square].tanodAttack();
         } else if (squares[square].isDog()) {
             Debug.Log("Player " + this.name + " was attacked By a Dog!");
             square -= 4;
+            dog.Play();
             // squares[square].dogAttack();
         } else if (squares[square].isRope()) {
             Debug.Log("Player " + this.name + " has found a Rope!");
@@ -109,5 +114,6 @@ public class Player : MonoBehaviour
 
     public void setPosition(Vector3 pos) {
         transform.position = pos;
+        running.Play();
     }
 }
